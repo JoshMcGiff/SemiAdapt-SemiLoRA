@@ -13,7 +13,7 @@ Traditional full-model fine-tuning of large multilingual models (billions of par
 
 ## 🚀 Key Contributions
 
-- **SemiAdapt**: A lightweight fine-tuning approach that enhances domain adaptation efficiency and can outperform full fine-tuning.
+- **SemiAdapt**: A fine-tuning approach that enhances domain adaptation efficiency and can outperform full fine-tuning.
 - **SemiLoRA**: A parameter-efficient variant that matches or exceeds full-model fine-tuning performance.
 - **Embedding-based inference** for improved performance on large, noisy corpora and efficient inference overall.
 - Comprehensive experiments on **Irish translation**, with released open models for reproducibility.
